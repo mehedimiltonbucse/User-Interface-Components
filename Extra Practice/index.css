@@ -1,0 +1,18 @@
+.parents {
+  background-color: yellowgreen;
+  padding: 20px;
+  height: 500px;
+  display: flex;
+  gap: 30px;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.child {
+  background-color: cadetblue;
+  font-size: 30px;
+  margin: 20px 0;
+  padding: 20px;
+  /* display: inline;   */
+}
